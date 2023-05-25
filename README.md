@@ -1,4 +1,5 @@
-# test2
+# test4
+# 하나의 EC2서버에 스프링부트 app과 mysql db를 도커 컨테이너를 이용해서 올리기
 # 스프링부트 CSR RestAPI With Security, JWT, JPA 총정리
 
 ## 1. API 문서
